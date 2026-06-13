@@ -117,6 +117,16 @@ winterhack/
 
 This is a hackathon project. Feel free to contribute and improve!
 
+##  Built At
+
+**GDG GTBIT Winter Sprint Hackathon** - 2nd Place
+
+##  Team
+
+- **Naisha Singh** - Team Lead, ML Architecture & Model Development
+- **Mansi Gupta** - Frontend & Backend Development, Repository Management
+- **Akshit Sachdeva** - Frontend & Backend Development, Presentation Design
+  
 ## License
 
 MIT License
